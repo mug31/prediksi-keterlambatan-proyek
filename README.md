@@ -2,7 +2,7 @@
 
 Kode simulasi, data sintetis, dan skrip analisis untuk naskah:
 
-> Kusbianto, M., Majid, M. N. G., Al-Hariri, M. R., & Yaqin, M. A. *Prediksi Probabilitas Keterlambatan
+> Kusbianto, M., Majid, M. N. G., Andriansyah, R. A., & Yaqin, M. A. *Prediksi Probabilitas Keterlambatan
 > Proyek Multi Sumber Daya Terbatas*. Diajukan ke Jurnal Pustaka Data.
 
 *English summary: code, synthetic data, and analysis scripts for a study that predicts the probability of
