@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# Workbook Excel ikut dibuat oleh simulasi_iterasi.py, tetapi tidak disimpan di repo
+06_simulasi_iterasi/excel/
+# Dokumen PMP asli tidak dipublikasikan
+MP-datasetRaw/
